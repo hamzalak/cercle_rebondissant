@@ -9,7 +9,7 @@ function setup() {
 }
 
 
-function draw() {
+function draw() { // Commentaire commentaire2
 
   background(0);
   ellipse(x, y, 20, 20);
